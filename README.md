@@ -1,7 +1,7 @@
 # Column-sorter
 Program takes in command-line argument for a csv file and column # to sort by, and prints the sorted data using merge sort
 
-## Example Output:
+## Example Output (sort by column 1) `presidentList.txt 1`
 ```
                       COLUMN 1                      COLUMN 2                     COLUMN 3
 ==========================================================================================
