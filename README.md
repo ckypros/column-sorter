@@ -52,7 +52,7 @@ Program takes in command-line argument for a csv file and column # to sort by, a
                 Zachary Taylor                          1849                          Whig
 ```
 
-## Example input "presidentList.txt"
+## Example input `presidentList.txt`
 ```
 George Washington,1789,Federalist
 John Adams,1797,Federalist
